@@ -1,0 +1,29 @@
+{
+  "name": "npmLearning",
+  "version": "0.1.0",
+  "description": "Example repo to help with learning NPM",
+  "main": "index.js",
+  "scripts": {
+  "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fred-d/npmLearning.git"
+  },
+  "author": "Freddy Castillo",
+  "license": "Apache License",
+  "licenses": [
+    {
+      "type": "Apache License",
+      "url": "https://github.com/fred-d/npmLearning/blob/master/LICENSE"
+    }
+  ], 
+  "bugs": {
+    "url": "https://github.com/fred-d/npmLearning/issues"
+  },
+  "homepage": "https://github.com/fred-d/npmLearning",
+  "devDependencies": {
+    "chai": "^2.0.0",
+    "mocha": "^2.1.0"
+  }
+}
